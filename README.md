@@ -35,7 +35,7 @@ The chart displays the number of bike rides initiated during each hour of the da
 
 ## NYC CitiBike Peak Use Hours
 
-![Chart 4](https://github.com/joshdaniels/bikesharing/blob/main/images/trip%20usage.png)
+![Chart 4](https://github.com/joshdaniels/bikesharing/blob/main/images/hour-by-weekday.png)
 
 A heatmap also helps show weekly usage patterns. Once again we can see the heavy bike usage during weekday commute times, and weekend usage is spread throughout the middle of the day. 
 
@@ -58,7 +58,7 @@ This charting of average trip duration by birth year shows two things:
 
 ## NYC CitiBike Trip Duration
 
-![Chart 7](https://github.com/joshdaniels/bikesharing/blob/main/images/hour-by-weekday.png)
+![Chart 7](https://github.com/joshdaniels/bikesharing/blob/main/images/trip%20usage.png) 
 
 This graphing of number of trips by duration show that the vast majority of trips taken on CitiBike bikes are under an hour in length. 
 
